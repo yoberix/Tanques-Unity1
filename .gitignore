@@ -76,3 +76,6 @@ crashlytics-build.properties
 /Scenes/
 /Logs/
 /Library/
+/Tanques2_BackUpThisFolder_ButDontShipItWithYourGame/
+*.rar
+*.zip
